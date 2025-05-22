@@ -15,6 +15,9 @@ public class WinCheck1 : MonoBehaviour
             if (hit.gameObject == player) // para no detectarse a sí mismo
             {
                 Debug.Log("Win");
+                
+                
+                
             }
         }
     }
