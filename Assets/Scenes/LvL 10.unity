@@ -1263,6 +1263,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9013774826238845643, guid: e8bbfe281215fd2479a109611f74c85a, type: 3}
+      propertyPath: scene
+      value: 
+      objectReference: {fileID: 102900000, guid: 8c9cfa26abfee488c85f1582747f6a02, type: 3}
+    - target: {fileID: 9013774826238845643, guid: e8bbfe281215fd2479a109611f74c85a, type: 3}
       propertyPath: player
       value: 
       objectReference: {fileID: 1300079215}

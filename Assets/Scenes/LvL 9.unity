@@ -640,7 +640,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1300079215}
-  scene: {fileID: 0}
+  scene: {fileID: 102900000, guid: 065de5ae03e8fe5499b277debe6fa50b, type: 3}
 --- !u!4 &1070342325 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4769171093041807798, guid: 62ca2769e26c2fd4985919c6780f9a88, type: 3}

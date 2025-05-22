@@ -1,3 +1,4 @@
+using System;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -5,7 +6,6 @@ using UnityEngine.SceneManagement;
 public class WinCheck : MonoBehaviour
 {
     public GameObject player;
-    public SceneAsset scene;
     private int Count = 1;
     
     // Update is called once per frame
@@ -23,7 +23,24 @@ public class WinCheck : MonoBehaviour
                     player.GetComponent<PlayerMoviment>().enabled = false;
                     Count--;
                 }
-                else SceneManager.LoadScene(scene.name);
+                else
+                {
+                    string name = SceneManager.GetActiveScene().name;
+                    string[] split = name.Split(" ");
+                    if (split.Length == 2 && split[0].Equals("LvL"))
+                    {
+                        try
+                        {
+                            int result = Int32.Parse(split[1]);
+                            result += 1;
+                            SceneLoader.LoadScene("LvL "+result);
+                        }
+                        catch (FormatException)
+                        {
+                            Console.WriteLine($"Unable to parse '{split[1]}'");
+                        }
+                    }
+                }
                 
             }
         }
