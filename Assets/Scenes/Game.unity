@@ -314,6 +314,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1277232944}
     m_Modifications:
     - target: {fileID: 202198178047726706, guid: 62ca2769e26c2fd4985919c6780f9a88, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 202198178047726706, guid: 62ca2769e26c2fd4985919c6780f9a88, type: 3}
       propertyPath: m_IncludeLayers.m_Bits
       value: 0
       objectReference: {fileID: 0}
@@ -635,6 +639,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a553886723f7f54193e4368e2d1a578, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 1300079215}
 --- !u!4 &1070342325 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4769171093041807798, guid: 62ca2769e26c2fd4985919c6780f9a88, type: 3}
@@ -758,7 +763,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8edabaf0620a414a87cbedf131d9abd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 250
+  speed: 100
   wallLayer:
     serializedVersion: 2
     m_Bits: 1024
