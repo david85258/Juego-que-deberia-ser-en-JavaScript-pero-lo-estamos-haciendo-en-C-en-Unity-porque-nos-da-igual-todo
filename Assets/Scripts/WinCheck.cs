@@ -1,9 +1,11 @@
+using UnityEditor;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class WinCheck1 : MonoBehaviour
+public class WinCheck : MonoBehaviour
 {
-
     public GameObject player;
+    public SceneAsset scene;
     
     // Update is called once per frame
     void Update()
@@ -14,10 +16,7 @@ public class WinCheck1 : MonoBehaviour
         {
             if (hit.gameObject == player) // para no detectarse a sí mismo
             {
-                Debug.Log("Win");
-                
-                
-                
+                SceneManager.LoadScene(scene.name);
             }
         }
     }
