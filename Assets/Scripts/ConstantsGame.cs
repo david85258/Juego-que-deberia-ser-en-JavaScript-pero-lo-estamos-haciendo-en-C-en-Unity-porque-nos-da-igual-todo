@@ -4,6 +4,7 @@ public class ConstantsGame : MonoBehaviour
 {
 
     public int numberOfWins = 0;
+    private int activatedWins = 0;
     public static ConstantsGame Instance { get; private set; }
 
     void Awake()
@@ -18,8 +19,9 @@ public class ConstantsGame : MonoBehaviour
     }
 
     // Tu lógica aquí
-    public int GetWins()
+    public bool CompWins()
     {
-        return numberOfWins;
+        activatedWins++;
+        return activatedWins == numberOfWins;
     }
 }

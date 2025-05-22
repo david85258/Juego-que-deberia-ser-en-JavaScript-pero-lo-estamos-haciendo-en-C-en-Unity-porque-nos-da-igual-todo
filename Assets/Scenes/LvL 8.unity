@@ -640,6 +640,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1300079215}
+  scene: {fileID: 102900000, guid: 56d50739aa104504e95cae8ff79f4d5d, type: 3}
 --- !u!4 &1070342325 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4769171093041807798, guid: 62ca2769e26c2fd4985919c6780f9a88, type: 3}
@@ -1204,6 +1205,10 @@ PrefabInstance:
     - target: {fileID: 7794695187782554783, guid: 53ff79e85ae396a4e9d4d94d8da572b6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8576835107153420593, guid: 53ff79e85ae396a4e9d4d94d8da572b6, type: 3}
+      propertyPath: m_SortingOrder
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 7125607645048982726, guid: 53ff79e85ae396a4e9d4d94d8da572b6, type: 3}

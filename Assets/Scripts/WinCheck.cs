@@ -6,6 +6,7 @@ public class WinCheck : MonoBehaviour
 {
     public GameObject player;
     public SceneAsset scene;
+    private int Count = 1;
     
     // Update is called once per frame
     void Update()
@@ -14,9 +15,16 @@ public class WinCheck : MonoBehaviour
 
         foreach (var hit in hits)
         {
-            if (hit.gameObject == player) // para no detectarse a sí mismo
+            if (hit.gameObject == player && Count == 1) // para no detectarse a sí mismo
             {
-                SceneManager.LoadScene(scene.name);
+                
+                if (!ConstantsGame.Instance.CompWins())
+                {
+                    player.GetComponent<PlayerMoviment>().enabled = false;
+                    Count--;
+                }
+                else SceneManager.LoadScene(scene.name);
+                
             }
         }
     }

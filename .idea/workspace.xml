@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="21465d95-aef3-4c9f-acee-bd37c9af2ef8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Juego que deberia ser en JavaScript pero lo estamos haciendo en C# en Unity porque nos da igual todo/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Juego que deberia ser en JavaScript pero lo estamos haciendo en C# en Unity porque nos da igual todo/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Juego que deberia ser en JavaScript pero lo estamos haciendo en C# en Unity porque nos da igual todo/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Juego que deberia ser en JavaScript pero lo estamos haciendo en C# en Unity porque nos da igual todo/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Juego que deberia ser en JavaScript pero lo estamos haciendo en C# en Unity porque nos da igual todo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Juego que deberia ser en JavaScript pero lo estamos haciendo en C# en Unity porque nos da igual todo/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Juego que deberia ser en JavaScript pero lo estamos haciendo en C# en Unity porque nos da igual todo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Juego que deberia ser en JavaScript pero lo estamos haciendo en C# en Unity porque nos da igual todo/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Juego que deberia ser en JavaScript pero lo estamos haciendo en C# en Unity porque nos da igual todo/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Juego que deberia ser en JavaScript pero lo estamos haciendo en C# en Unity porque nos da igual todo/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 5.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 6.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 6.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 7.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 7.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 8.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 8.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 9.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 9.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BombCheck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BombCheck.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ConstantsGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ConstantsGame.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WinCheck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WinCheck.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,12 +38,19 @@
     &quot;assignee&quot;: &quot;rroyo6500&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/david85258/Juego-que-deberia-ser-en-JavaScript-pero-lo-estamos-haciendo-en-C-en-Unity-porque-nos-da-igual-todo.git&quot;,
-    &quot;accountId&quot;: &quot;196e68ad-d4af-4b54-9b23-c541d348f0ba&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/david85258/Juego-que-deberia-ser-en-JavaScript-pero-lo-estamos-haciendo-en-C-en-Unity-porque-nos-da-igual-todo.git",
+    "accountId": "514f74f9-7af8-4e46-bdff-08db14d93f09"
   }
-}</component>
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/098f57384b5148a5a26f4d98e6aa90649b9400/90/425fc28a/UnityBeeDriver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BombCheck.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConstantsGame.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMoviment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WinCheck.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -36,16 +59,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
@@ -53,7 +80,9 @@
       <option name="pid" />
       <option name="projectPathOnTarget" />
       <option name="runtimes">
-        <list />
+        <list>
+          <MonoRuntime />
+        </list>
       </option>
       <option name="selectedOptions">
         <list />
@@ -71,6 +100,7 @@
       <updated>1747402339640</updated>
       <workItem from="1747402342073" duration="25000" />
       <workItem from="1747402370788" duration="8000" />
+      <workItem from="1747946246284" duration="3286000" />
     </task>
     <servers />
   </component>

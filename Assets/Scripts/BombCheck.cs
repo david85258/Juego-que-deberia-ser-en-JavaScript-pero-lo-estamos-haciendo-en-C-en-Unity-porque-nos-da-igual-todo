@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class BombCheck : MonoBehaviour
 {
 
-    public GameObject player;
+    public GameObject[] players;
     
     // Update is called once per frame
     void Update()
@@ -13,9 +13,12 @@ public class BombCheck : MonoBehaviour
 
         foreach (var hit in hits)
         {
-            if (hit.gameObject == player) // para no detectarse a sí mismo
+            foreach (var player in players)
             {
-                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+                if (hit.gameObject == player) // para no detectarse a sí mismo
+                {
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+                }
             }
         }
     }
