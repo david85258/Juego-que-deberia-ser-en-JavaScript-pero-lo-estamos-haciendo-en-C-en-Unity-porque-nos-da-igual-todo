@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMoviment : MonoBehaviour
 {
@@ -44,6 +45,11 @@ public class PlayerMoviment : MonoBehaviour
             {
                 _movingDirection = Input.GetAxisRaw("Vertical") > 0 ? Direction.Up : Direction.Down;
             }
+        }
+
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 
