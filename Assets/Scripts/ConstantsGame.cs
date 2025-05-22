@@ -3,7 +3,7 @@ using UnityEngine;
 public class ConstantsGame : MonoBehaviour
 {
 
-    public int numberOfWins = 0;
+    public int numberOfWins;
     public static ConstantsGame Instance { get; private set; }
 
     void Awake()
