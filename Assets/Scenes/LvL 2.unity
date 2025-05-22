@@ -684,7 +684,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8edabaf0620a414a87cbedf131d9abd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 100
+  speed: 25
   wallLayer:
     serializedVersion: 2
     m_Bits: 1024
@@ -1262,6 +1262,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9013774826238845643, guid: e8bbfe281215fd2479a109611f74c85a, type: 3}
+      propertyPath: scene
+      value: 
+      objectReference: {fileID: 102900000, guid: 7c55a0cfefb56d34cbaa5bfb8c307aad, type: 3}
     - target: {fileID: 9013774826238845643, guid: e8bbfe281215fd2479a109611f74c85a, type: 3}
       propertyPath: player
       value: 
