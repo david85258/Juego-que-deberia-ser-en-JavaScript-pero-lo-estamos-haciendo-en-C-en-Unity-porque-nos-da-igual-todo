@@ -1094,6 +1094,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BombTile
       objectReference: {fileID: 0}
+    - target: {fileID: 5134024870549787674, guid: d125e05fa35c1d64482bc938d9723c75, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7753550781285285608, guid: d125e05fa35c1d64482bc938d9723c75, type: 3}
       propertyPath: player
       value: 

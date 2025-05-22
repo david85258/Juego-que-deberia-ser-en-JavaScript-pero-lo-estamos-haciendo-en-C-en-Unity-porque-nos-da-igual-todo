@@ -280,7 +280,6 @@ MonoBehaviour:
   m_Cameras: []
   m_RendererIndex: -1
   m_VolumeLayerMask:
-    serializedVersion: 2
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
@@ -640,7 +639,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1300079215}
-  scene: {fileID: 102900000, guid: 56d50739aa104504e95cae8ff79f4d5d, type: 3}
 --- !u!4 &1070342325 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4769171093041807798, guid: 62ca2769e26c2fd4985919c6780f9a88, type: 3}
@@ -1023,7 +1021,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c4e0487cc5e343488e5a230eb275b87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfWins: 2
+  numberOfWins: 1
 --- !u!4 &1776313672
 Transform:
   m_ObjectHideFlags: 0

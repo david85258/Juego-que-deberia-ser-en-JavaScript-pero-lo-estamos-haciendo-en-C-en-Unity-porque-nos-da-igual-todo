@@ -6,20 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="21465d95-aef3-4c9f-acee-bd37c9af2ef8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Prefabs/BombTile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Prefabs/BombTile.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 10.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 10.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 4.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 5.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 6.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 6.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 7.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 7.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 8.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 8.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 9.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 9.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BombCheck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BombCheck.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ConstantsGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ConstantsGame.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WinCheck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WinCheck.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +39,21 @@
 }]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/098f57384b5148a5a26f4d98e6aa90649b9400/90/425fc28a/UnityBeeDriver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 10.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 2.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 5.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 6.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 8.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 9.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BombCheck.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scripts/BombCheck.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConstantsGame.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scripts/ConstantsGame.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMoviment.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WinCheck.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scripts/WinCheck.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -100,19 +103,31 @@
       <updated>1747402339640</updated>
       <workItem from="1747402342073" duration="25000" />
       <workItem from="1747402370788" duration="8000" />
-      <workItem from="1747946246284" duration="3286000" />
+      <workItem from="1747946246284" duration="5588000" />
     </task>
+    <task id="LOCAL-00001" summary="2P">
+      <option name="closed" value="true" />
+      <created>1747949584505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949584505</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityProjectDiscoverer">
     <option name="unityProjectFolder" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="2P" />
+    <option name="LAST_COMMIT_MESSAGE" value="2P" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

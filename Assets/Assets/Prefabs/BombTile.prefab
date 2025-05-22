@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3772430537539132355}
   - component: {fileID: 7006556209495572377}
   - component: {fileID: 7753550781285285608}
-  m_Layer: 11
+  m_Layer: 0
   m_Name: BombTile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -147,4 +147,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7857228cddaee254fac920b2d70a6ab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  players: []
