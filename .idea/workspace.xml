@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="21465d95-aef3-4c9f-acee-bd37c9af2ef8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 9.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 9.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 10.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 10.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <workItem from="1747946246284" duration="5628000" />
       <workItem from="1747993687612" duration="2475000" />
       <workItem from="1748025893601" duration="20000" />
-      <workItem from="1748028684429" duration="663000" />
+      <workItem from="1748028684429" duration="2239000" />
     </task>
     <task id="LOCAL-00001" summary="2P">
       <option name="closed" value="true" />
@@ -119,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747996092165</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="LvL 9">
+      <option name="closed" value="true" />
+      <created>1748031066465</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748031066465</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +143,8 @@
     <MESSAGE value="2P" />
     <MESSAGE value="Add menu, fix Build, add SceneLoader" />
     <MESSAGE value="fix player movement" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix player movement" />
+    <MESSAGE value="LvL 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="LvL 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
