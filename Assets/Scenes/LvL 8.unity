@@ -653,7 +653,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1277232944}
     m_Modifications:
     - target: {fileID: 419999193429915896, guid: e8bbfe281215fd2479a109611f74c85a, type: 3}
       propertyPath: m_Name
@@ -708,6 +708,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e8bbfe281215fd2479a109611f74c85a, type: 3}
+--- !u!4 &631575555 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7812854523615498300, guid: e8bbfe281215fd2479a109611f74c85a, type: 3}
+  m_PrefabInstance: {fileID: 631575554}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &667292354
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1174,7 +1179,9 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 631575555}
+  - {fileID: 1724808026}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1300079215 stripped
@@ -1656,7 +1663,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1277232944}
     m_Modifications:
     - target: {fileID: 419999193429915896, guid: e8bbfe281215fd2479a109611f74c85a, type: 3}
       propertyPath: m_Name
@@ -1711,6 +1718,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e8bbfe281215fd2479a109611f74c85a, type: 3}
+--- !u!4 &1724808026 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7812854523615498300, guid: e8bbfe281215fd2479a109611f74c85a, type: 3}
+  m_PrefabInstance: {fileID: 1724808025}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1741612352
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2174,5 +2186,3 @@ SceneRoots:
   - {fileID: 1277232944}
   - {fileID: 1776313672}
   - {fileID: 34281647}
-  - {fileID: 631575554}
-  - {fileID: 1724808025}
