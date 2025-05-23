@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class WinCheck : MonoBehaviour
 {
     public GameObject player;
-    private int Count = 1;
+    private int _count = 1;
     
     // Update is called once per frame
     void Update()
@@ -15,13 +15,13 @@ public class WinCheck : MonoBehaviour
 
         foreach (var hit in hits)
         {
-            if (hit.gameObject == player && Count == 1) // para no detectarse a sí mismo
+            if (hit.gameObject == player && _count == 1) // para no detectarse a sí mismo
             {
                 
                 if (!ConstantsGame.Instance.CompWins())
                 {
                     player.GetComponent<PlayerMoviment>().enabled = false;
-                    Count--;
+                    _count--;
                 }
                 else
                 {
