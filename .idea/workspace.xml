@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21465d95-aef3-4c9f-acee-bd37c9af2ef8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LvL 10.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LvL 10.unity" afterDir="false" />
-    </list>
+    <list default="true" id="21465d95-aef3-4c9f-acee-bd37c9af2ef8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +31,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/32c7bf7929ab49ff97ef28e949651e262400/3a/2ab8cb11/02000003pdb2.il" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/098f57384b5148a5a26f4d98e6aa90649b9400/90/425fc28a/UnityBeeDriver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 10.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BombCheck.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConstantsGame.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMoviment.cs" root0="FORCE_HIGHLIGHTING" />
@@ -93,7 +91,7 @@
       <workItem from="1747946246284" duration="5628000" />
       <workItem from="1747993687612" duration="2475000" />
       <workItem from="1748025893601" duration="20000" />
-      <workItem from="1748028684429" duration="2239000" />
+      <workItem from="1748028684429" duration="3003000" />
     </task>
     <task id="LOCAL-00001" summary="2P">
       <option name="closed" value="true" />
@@ -127,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748031066465</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="LvL 10, 11, 12">
+      <option name="closed" value="true" />
+      <created>1748032146896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748032146896</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,13 +144,25 @@
   <component name="UnityProjectDiscoverer">
     <option name="unityProjectFolder" value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="2P" />
     <MESSAGE value="Add menu, fix Build, add SceneLoader" />
     <MESSAGE value="fix player movement" />
     <MESSAGE value="LvL 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="LvL 9" />
+    <MESSAGE value="LvL 10, 11, 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="LvL 10, 11, 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
