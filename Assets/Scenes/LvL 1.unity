@@ -538,7 +538,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1300079215}
-  scene: {fileID: 102900000, guid: 85ac70a08cdbc6e4cb6287915146e7a3, type: 3}
 --- !u!1001 &1130643595
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -772,7 +771,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c4e0487cc5e343488e5a230eb275b87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfWins: 1
+  numberOfWinsAndPlayers: 1
 --- !u!4 &1776313672
 Transform:
   m_ObjectHideFlags: 0

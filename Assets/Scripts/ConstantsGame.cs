@@ -2,11 +2,10 @@ using UnityEngine;
 
 public class ConstantsGame : MonoBehaviour
 {
-
-    public int numberOfWins = 0;
-    private int activatedWins = 0;
     public static ConstantsGame Instance { get; private set; }
 
+    public int numberOfWinsAndPlayers = 0;
+    
     void Awake()
     {
         if (Instance != null && Instance != this)
@@ -17,11 +16,14 @@ public class ConstantsGame : MonoBehaviour
 
         Instance = this; 
     }
+    
+    // Wins
+    private int activatedWins = 0;
 
-    // Tu lógica aquí
     public bool CompWins()
     {
         activatedWins++;
-        return activatedWins == numberOfWins;
+        return activatedWins == numberOfWinsAndPlayers;
     }
+    
 }

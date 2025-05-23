@@ -7,7 +7,7 @@ public class PlayerMoviment : MonoBehaviour
     public LayerMask wallLayer;
     public Vector2 boxSize = new Vector2(0.99f, 0.99f); // Tamaño del "hitbox" del jugador
     private Direction _movingDirection = Direction.None;
-    private float _skinWidth = 0.002f; // Pequeña distancia para evitar penetrar en la pared
+    private float _skinWidth = 0.004f; // Pequeña distancia para evitar penetrar en la pared
 
     void Update()
     {
