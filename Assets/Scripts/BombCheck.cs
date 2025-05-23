@@ -1,11 +1,19 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Random = UnityEngine.Random;
 
+[RequireComponent(typeof(SpriteRenderer))]
 public class BombCheck : MonoBehaviour
 {
 
     public GameObject[] players;
-    
+
+    public void Awake()
+    {
+        GetComponent<SpriteRenderer>().material.SetFloat("_Hue", Random.Range(0f, 1f));
+    }
+
     // Update is called once per frame
     void Update()
     {
