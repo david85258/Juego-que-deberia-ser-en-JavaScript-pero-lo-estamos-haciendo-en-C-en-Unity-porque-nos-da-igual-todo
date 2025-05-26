@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3772430537539132355}
   - component: {fileID: 7006556209495572377}
   - component: {fileID: 7753550781285285608}
+  - component: {fileID: 8569160280557568348}
   m_Layer: 0
   m_Name: BombTile
   m_TagString: Untagged
@@ -148,3 +149,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   players: []
+--- !u!114 &8569160280557568348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5134024870549787674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73f7c67c8e578644ba9390bc55c26c4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

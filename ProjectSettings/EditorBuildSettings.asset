@@ -38,6 +38,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LvL 10.unity
     guid: 065de5ae03e8fe5499b277debe6fa50b
+  - enabled: 1
+    path: Assets/Scenes/LvL 11.unity
+    guid: 1c1587c80b88a8043b5ce9fe88839ebf
+  - enabled: 1
+    path: Assets/Scenes/LvL 12.unity
+    guid: 74bbc05dfcb22414c9a3b9ee185a85ed
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 0c99501d3f6dffd40ba1b2a2896103a9
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

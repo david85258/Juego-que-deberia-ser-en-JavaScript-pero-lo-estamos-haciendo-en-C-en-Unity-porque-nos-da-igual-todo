@@ -29,6 +29,12 @@ public class WinCheck : MonoBehaviour
                     string[] split = name.Split(" ");
                     if (split.Length == 2 && split[0].Equals("LvL"))
                     {
+                        AudioManager.Instance.PlaySfx(AudioManager.Instance.win);
+                        if (name.Equals("LvL 12"))
+                        {
+                            SceneLoader.LoadScene("Win");
+                            return;
+                        }
                         try
                         {
                             int result = Int32.Parse(split[1]);

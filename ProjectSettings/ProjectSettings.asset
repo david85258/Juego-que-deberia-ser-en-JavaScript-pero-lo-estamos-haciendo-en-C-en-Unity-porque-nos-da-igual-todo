@@ -599,9 +599,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 2
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Juego que deberia ser en JavaScript pero lo estamos haciendo
-    en C# en Unity porque nos da igual todo
-  metroPackageVersion: 
+  metroPackageName: 
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -610,7 +609,7 @@ PlayerSettings:
   metroApplicationDescription: Juego que deberia ser en JavaScript pero lo estamos
     haciendo en C# en Unity porque nos da igual todo
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Juego
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0

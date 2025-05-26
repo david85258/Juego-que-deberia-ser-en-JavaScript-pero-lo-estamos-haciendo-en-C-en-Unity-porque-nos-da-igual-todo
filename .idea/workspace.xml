@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21465d95-aef3-4c9f-acee-bd37c9af2ef8" name="Changes" comment="" />
+    <list default="true" id="21465d95-aef3-4c9f-acee-bd37c9af2ef8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/WallTile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/WallTile.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/rene-pereyra-metal-plate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/rene-pereyra-metal-plate.jpg.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,19 +30,32 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/david85258/Juego-que-deberia-ser-en-JavaScript-pero-lo-estamos-haciendo-en-C-en-Unity-porque-nos-da-igual-todo.git&quot;,
-    &quot;accountId&quot;: &quot;514f74f9-7af8-4e46-bdff-08db14d93f09&quot;
+    &quot;accountId&quot;: &quot;eaf8df81-344d-4062-8350-012fa2e29fb8&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/32c7bf7929ab49ff97ef28e949651e262400/3a/2ab8cb11/02000003pdb2.il" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/098f57384b5148a5a26f4d98e6aa90649b9400/90/425fc28a/UnityBeeDriver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 1.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 10.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BombCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 2.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 3.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 4.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 5.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 6.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 7.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 8.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scenes/LvL 9.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BombCheck.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scripts/ConstantsGame.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConstantsGame.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMoviment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scripts/ConstantsGame.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMoviment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scripts/PlayerMoviment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/rober/RiderProjects/Juego/Assets/Scripts/PlayerMoviment.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SalirScript.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneLoader.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WinCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WinCheck.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -48,21 +66,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMThirdPartyAiProvidersConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
@@ -89,9 +107,9 @@
       <workItem from="1747402342073" duration="25000" />
       <workItem from="1747402370788" duration="8000" />
       <workItem from="1747946246284" duration="5628000" />
-      <workItem from="1747993687612" duration="2475000" />
-      <workItem from="1748025893601" duration="20000" />
-      <workItem from="1748028684429" duration="3003000" />
+      <workItem from="1747993687612" duration="2377000" />
+      <workItem from="1748029702488" duration="4305000" />
+      <workItem from="1748211308382" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="2P">
       <option name="closed" value="true" />
@@ -109,31 +127,7 @@
       <option name="project" value="LOCAL" />
       <updated>1747951890017</updated>
     </task>
-    <task id="LOCAL-00003" summary="fix player movement">
-      <option name="closed" value="true" />
-      <created>1747996092165</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1747996092165</updated>
-    </task>
-    <task id="LOCAL-00004" summary="LvL 9">
-      <option name="closed" value="true" />
-      <created>1748031066465</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1748031066465</updated>
-    </task>
-    <task id="LOCAL-00005" summary="LvL 10, 11, 12">
-      <option name="closed" value="true" />
-      <created>1748032146896</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1748032146896</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,25 +138,11 @@
   <component name="UnityProjectDiscoverer">
     <option name="unityProjectFolder" value="true" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="2P" />
     <MESSAGE value="Add menu, fix Build, add SceneLoader" />
-    <MESSAGE value="fix player movement" />
-    <MESSAGE value="LvL 9" />
-    <MESSAGE value="LvL 10, 11, 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="LvL 10, 11, 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add menu, fix Build, add SceneLoader" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -181,5 +161,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

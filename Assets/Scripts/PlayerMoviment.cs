@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -28,6 +29,7 @@ public class PlayerMoviment : MonoBehaviour
                 
                 // Detener el movimiento al chocar
                 _movingDirection = Direction.None;
+                AudioManager.Instance.PlaySfx(AudioManager.Instance.stopMove);
             }
             else
             {
@@ -40,16 +42,24 @@ public class PlayerMoviment : MonoBehaviour
             if (Input.GetAxisRaw("Horizontal") != 0)
             {
                 _movingDirection = Input.GetAxisRaw("Horizontal") > 0 ? Direction.Right : Direction.Left;
+                AudioManager.Instance.PlaySfx(AudioManager.Instance.move);
             }
             else if (Input.GetAxisRaw("Vertical") != 0)
             {
                 _movingDirection = Input.GetAxisRaw("Vertical") > 0 ? Direction.Up : Direction.Down;
+                AudioManager.Instance.PlaySfx(AudioManager.Instance.move);
             }
         }
 
         if (Input.GetKeyDown(KeyCode.R))
         {
+            AudioManager.Instance.PlaySfx(AudioManager.Instance.death);
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Menu");
         }
     }
 
